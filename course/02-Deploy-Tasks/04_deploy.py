@@ -47,7 +47,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Job er en task. Job run er en doployment/instans av denne tasken. Job startes manuelt mens en job run kan scheduleres/trigges
 
 # COMMAND ----------
 
@@ -59,5 +59,4 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC
-# MAGIC Answer here...
+# MAGIC transport_taxinyc_prep_test_stigbolkan_main_65ff812f - Navnet generes automatisk av Catalog, repos, environment/miljø og ???? YML/
